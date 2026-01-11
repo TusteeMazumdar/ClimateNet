@@ -1,4 +1,4 @@
-# 🌍 ClimateNet: A Multi-Faceted Classifier for Analyzing Climate Change Discourse
+#  ClimateNet: A Multi-Faceted Classifier for Analyzing Climate Change Discourse
 
 **Authors:** <sup>$</sup>Tustee Mazumdar, <sup>$</sup>Adrika Chowdhury, Abu Nowshed Chy, and Tarem Ahmed || $- Equal Contribution ||
 
@@ -11,7 +11,7 @@ It is currently **in press and will be published soon in the IEEE Xplore digital
 
 ---
 
-## 🧩 Overview
+##  Overview
 
 **ClimateNet** is a **multi-task text classification framework** designed to analyze the multifaceted discourse surrounding **climate change on social media**. It leverages **transformer-based contextual embeddings (BERT, RoBERTa, DistilBERT, ClimateBERT)** integrated with a **Bidirectional LSTM (BiLSTM)** and a **Multilayer Perceptron (MLP)** classifier to capture both semantic and sequential dependencies in textual data.  
 
@@ -35,7 +35,7 @@ In essence, ClimateNet integrates **contextual transformers** with **temporal se
 
 ---
 
-## 📚 Tasks
+##  Tasks
 
 ClimateNet performs **six independent NLP classification tasks** on the *ClimaConvo* dataset:
 
@@ -58,7 +58,7 @@ Main evaluation metric: **Macro-averaged F1-score**.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```bash
 Notebooks/
@@ -108,7 +108,7 @@ All scripts include:
 
 ---
 
-## 💻 Installation
+##  Installation
 
 To replicate our experiments or explore the ClimateNet notebooks locally, please follow these steps:
 
