@@ -132,7 +132,7 @@ pip install -r requirements.txt
 Upload the notebook of your choice (e.g., ```Notebooks/Stance/DistilBERT_Stance.ipynb```) to Colab and ensure the runtime is set to GPU for faster training.
 
 
-## 🙏 Acknowledgment
+##  Acknowledgment
 
 This research builds upon the **ClimaConvo** dataset introduced by **Shiwakoti et al. (2024)** in their paper *“Analyzing the Dynamics of Climate Change Discourse on Twitter: A New Annotated Corpus and Multi-Aspect Classification”* (LREC-COLING 2024).  
 We gratefully acknowledge their contribution for providing the annotated benchmark dataset that enabled our experiments and evaluation.
